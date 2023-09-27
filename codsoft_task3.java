@@ -72,7 +72,7 @@ class ATM {
     }
 }
 
-public class Task3 {
+public class codsoft_task3 {
     public static void main(String[] args) {
         BankAccount userAccount = new BankAccount(1000.0); // Initial balance is $1000
         ATM Myatm = new ATM(userAccount);
