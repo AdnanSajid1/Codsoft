@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class NumberGame {
+public class codsoft_task1 {
 
     public static void main(String[] args) {
 
